@@ -227,11 +227,12 @@ unavailable(503) and some other network issues, leading me to
 start all over again.
 
 This challenge really taught me why I have to keep learning new 
-concepts.From this challenge, I was able to learn how to forge 
+concepts. From this challenge, I was able to learn how to forge 
 ciphertext for any plaintext by using the Padding Oracle attack.
 
 To understand the attack better, you can check out [this article](https://www.nccgroup.com/research/cryptopals-exploiting-cbc-padding-oracles/)
 by Eli Sohl.
+
 Also, remember that each error you get is an eye-opener to the possibility of
 a bug. If you are not sure where to find the flag, just break stuff. The
 flags will show themselves.
